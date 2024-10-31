@@ -5,8 +5,8 @@
   <a href="https://github.com/hariomgehlot?tab=repositories&type=source">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomgehlot&theme=radical" />
   </a>
-  <a href="https://github.com/hariomgehlot/vrus.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hariomgehlot&repo=vrus.vercel.app&theme=radical" />
+  <a href="https://github.com/hariomgehlot/hariomgehlot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hariomgehlot&repo=hariomgehlot&theme=radical" />
   </a>
 </p>
 
