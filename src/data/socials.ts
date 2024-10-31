@@ -6,12 +6,12 @@ import IconTwitter from "../components/icons/twitter.astro";
 export const SOCIALS = [
   {
     name: "Github",
-    url: "https://github.com/thevrus",
+    url: "https://github.com/hariomgehlot",
     icon: IconGithub,
   },
   {
     name: "Linkedin",
-    url: "https://www.linkedin.com/in/vrusin/",
+    url: "https://www.linkedin.com/in/hariomgehlot/",
     icon: IconLinkedin,
   },
   {
