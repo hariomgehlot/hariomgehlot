@@ -2,7 +2,7 @@
   "name": "vrus",
   "type": "module",
   "version": "0.0.1",
-  "packageManager": "npm@9.2.0",
+  "packageManager": "pnpm@9.12.3",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
